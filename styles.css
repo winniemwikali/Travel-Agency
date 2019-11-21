@@ -1,0 +1,56 @@
+body{
+    background-color: cyan;
+    
+}
+nav>ul>li{list-style-type: none;
+    display: inline;
+    padding: 20px;
+    background-color: deeppink;
+    color: black;
+    
+}
+ul>li{
+margin-top: 0;
+}
+
+nav{
+    
+color:black;;
+background-color:deeppink;
+float: right;
+font-size: 30px;
+width: 100%;
+margin-top: 0%;
+margin-left: 0%;
+margin-right: 0%;
+margin-bottom: 0%;
+padding: 20px;
+position: fixed;
+
+}
+
+.tropical{float: right;
+    display: flex;
+    margin-top: 5%;
+    margin-left: 3%;
+    margin-right: 5%;}
+
+    
+    
+    
+
+.main{
+    display: flex;
+}
+h1{
+    font-family: 'Abril Fatface', cursive;
+}
+    
+p,li,h4{
+    font-family: 'Archivo Narrow', sans-serif;
+    font-size: 30px;
+}
+
+.tropical>div{
+    padding-left: 100px;
+}
